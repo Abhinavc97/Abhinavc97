@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a passionate defender of digital frontiers, currently pursuing my Master’s in Cybersecurity at The George Washington University 👨‍🎓🔐. With hands-on experience from Infosys as a Senior System Engineer and a growing portfolio of offensive and defensive security projects, I thrive at the intersection of code, curiosity, and cyber threats 💻🧠🔥.
+I'm a passionate defender of digital frontiers, currently pursuing my Master’s in Cybersecurity at The George Washington University 👨‍🎓🔐. With hands-on experience from Infosys as a Senior System Engineer and a growing portfolio of offensive and defensive security projects, I thrive at the intersection of code, curiosity, and cyber threats .
 
 Whether it’s diving deep into security concepts or simulating phishing campaigns with GoPhish 🎯📧 or building visual traceroute maps on 3D globes 🌍, I love crafting tools that are as effective as they are exciting.
 
-I’ve got a sharp analytical mindset and a natural talent for solving complex problems. These qualities make me a strong asset to any cybersecurity team. I thrive on challenges and am always exploring new ways to sharpen my skills and expand my expertise in this fast-evolving field 📈🧠.
+I’ve got a sharp analytical mindset and a natural talent for solving complex problems. These qualities make me a strong asset to any cybersecurity team. I thrive on challenges and am always exploring new ways to sharpen my skills and expand my expertise in this fast-evolving field �.
 
-If you’re looking for a dedicated cybersecurity professional who’s ready to help you stay one step ahead of threats, let’s connect and work together to build a safer, smarter digital world 🌐🔐🤝.
+If you’re looking for a dedicated cybersecurity professional who’s ready to help you stay one step ahead of threats, let’s connect and work together to build a safer, smarter digital world 🤝.
 <!--
 **Abhinavc97/Abhinavc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
