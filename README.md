@@ -1,5 +1,5 @@
 Hi there 👋 </br>
-I'm a passionate defender of digital frontiers, currently pursuing my Master’s in Cybersecurity at The George Washington University 👨‍🎓🔐. With hands-on experience from Infosys as a Senior System Engineer and a growing portfolio of offensive and defensive security projects, I thrive at the intersection of code, curiosity, and cyber threats .
+I'm a passionate defender of digital frontiers, I recently graduated with a Master’s in Cybersecurity from The George Washington University 👨‍🎓🔐. With hands-on experience from Infosys as a Senior System Security Engineer and a growing portfolio of offensive and defensive security projects, I thrive at the intersection of code, curiosity, and cyber threats .
 
 Whether it’s diving deep into security concepts or simulating phishing campaigns with GoPhish 🎯📧 or building visual traceroute maps on 3D globes 🌍, I love crafting tools that are as effective as they are exciting.
 
